@@ -203,7 +203,7 @@ exports.rulesBot = (prefix) => {
 ᴛᴏ ᴜsᴇ ʙᴏᴛ ${prefix}ᴍᴇɴᴜ
 
 ᴏᴡɴᴇʀ ʙᴏᴛ:
-wa.me/6587255582
+wa.me/917994206751
 `
 }
 exports.Menu = (prefix) => {
